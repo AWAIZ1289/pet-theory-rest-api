@@ -1,0 +1,19 @@
+# ignore built binary
+/server
+
+# Go vendor and temp
+/vendor/
+/bin/
+/obj/
+/*.exe
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# env
+.env
